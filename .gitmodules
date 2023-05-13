@@ -1,5 +1,5 @@
-[submodule "src/jsdifflib"]
-	path = src/jsdifflib
+[submodule "docs/jsdifflib"]
+	path = docs/jsdifflib
 	url = https://github.com/cemerick/jsdifflib.git
 [submodule "pythonista-webview"]
 	path = pythonista-webview
