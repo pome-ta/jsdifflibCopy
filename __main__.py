@@ -37,6 +37,6 @@ class View(ui.View):
 if __name__ == '__main__':
   #sys.path.append(str(pathlib.Path.cwd()) + '/pystaObjcPrint')
   #import pdbg
-  uri_path = pathlib.Path('./src/index.html')
+  uri_path = pathlib.Path('./docs/index.html')
   view = View(uri_path)
   view.present(style='fullscreen', orientations=['portrait'])
